@@ -3,7 +3,7 @@
 
 OSINT
 ----------------------------------------
-- `osint <http://osintframework.com/>`_
+- `osint <https://osintframework.com/>`_
 - `osint git <https://github.com/lockfale/OSINT-Framework>`_
 - `OSINT-Collection <https://github.com/Ph055a/OSINT Collection>`_
 - `trape <https://github.com/jofpin/trape>`_
@@ -14,6 +14,7 @@ OSINT
 ----------------------------------------
 - `SlackPirate <https://github.com/emtunc/SlackPirate>`_ Slack Enumeration and Extraction Tool - extract sensitive information from a Slack Workspace
 - `twint <https://github.com/twintproject/twint>`_ An advanced Twitter scraping & OSINT tool
+- `Xquik <https://github.com/Xquik-dev/x-twitter-scraper>`_ - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 个人搜索
 ----------------------------------------
